@@ -11,10 +11,10 @@
 constexpr const char* APP_ID        = "0000000000000000000";
 constexpr const char* DETAILS       = "Playing Lineage 2";
 constexpr const char* STATE         = "your-server.com";
-constexpr const char* LARGE_IMAGE   = "";
-constexpr const char* LARGE_TEXT    = "";
-constexpr const char* SMALL_IMAGE   = "";
-constexpr const char* SMALL_TEXT    = "";
+constexpr const char* LARGE_IMAGE   = "test_big_pic";
+constexpr const char* LARGE_TEXT    = "big text";
+constexpr const char* SMALL_IMAGE   = "test_smol_pic";
+constexpr const char* SMALL_TEXT    = "smol text";
 constexpr const char* BUTTON1_LABEL = "";
 constexpr const char* BUTTON1_URL   = "";
 constexpr const char* BUTTON2_LABEL = "";
